@@ -1,6 +1,9 @@
 function HomePage() {
   return (
-    <div>Welcome to the food truck finder app! We are working on this.</div>
+    <>
+      <h1>Food Truck Finder</h1>
+      <div>Welcome to the food truck finder app! We are working on this.</div>
+    </>
   );
 }
 
